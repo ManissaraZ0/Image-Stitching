@@ -6,6 +6,10 @@ Developed in 2025 as part of the CP461 Introduction to Computer Vision course. T
 
 The core objective of this project is to understand the geometric transformations required to align different camera views into a single coordinate system. By finding common points between images, we can calculate a transformation matrix that "warps" one image to fit perfectly with another.
 
+![Example](example_image_stitching2.png)
+![Example](example_image_stitching.png)
+
+
 ## 🛠 Features & Workflow
 
 The stitching process follows these fundamental Computer Vision steps:
